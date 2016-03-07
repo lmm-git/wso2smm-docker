@@ -1,0 +1,1 @@
+# wso2smm-docker
